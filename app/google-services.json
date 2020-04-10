@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "502404811230",
+    "firebase_url": "https://pizziepizzalogin.firebaseio.com",
+    "project_id": "pizziepizzalogin",
+    "storage_bucket": "pizziepizzalogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502404811230:android:cc23ae673fad10a82f354f",
+        "android_client_info": {
+          "package_name": "com.example.pizziepizza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502404811230-2krkfaklhi8fa99j4s1ieppe1j5pq4uh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pizziepizza",
+            "certificate_hash": "7e5ef8a97d0989763c5e5d7917f9626d8541c1b8"
+          }
+        },
+        {
+          "client_id": "502404811230-umnavb1fccdcgfpfipe13t3444sbbtnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7YZKSlhSDf2ZkodKN94BTcJMrZSiRbVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502404811230-umnavb1fccdcgfpfipe13t3444sbbtnd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
