@@ -13,7 +13,7 @@
         android:layout_marginTop="332dp"
         android:layout_marginEnd="160dp"
         android:layout_marginRight="160dp"
-        android:text="page 3"
+        android:text="@string/page_3"
         android:textSize="30sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent" />

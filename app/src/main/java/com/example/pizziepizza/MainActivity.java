@@ -67,7 +67,8 @@ public class MainActivity<mAuth> extends AppCompatActivity {
 
     private void login(String username,String password) {
 
-        final Intent intent = new Intent(MainActivity.this, Main3Activity.class);
+        //final Intent intent = new Intent(MainActivity.this, Main3Activity.class);
+        final Intent intent = new Intent(MainActivity.this, Mainmenu.class);
 
 
         final ProgressDialog dialog = ProgressDialog.show(MainActivity.this, "Logining",

@@ -9,7 +9,40 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Main4Activity"></activity>
+        <activity
+            android:name=".FrenchFries"
+            android:parentActivityName=".Others" ></activity>
+        <activity
+            android:name=".Receipt"
+            android:parentActivityName=".ListOrder" />
+        <activity
+            android:name=".Summary"
+            android:parentActivityName=".ListOrder" />
+        <activity
+            android:name=".Drinkmenu"
+            android:parentActivityName=".Others" />
+        <activity
+            android:name=".Chickenmenu"
+            android:parentActivityName=".Others" />
+        <activity
+            android:name=".Pastamenu"
+            android:parentActivityName=".Others" />
+        <activity
+            android:name=".Familymenu"
+            android:parentActivityName=".Mainmenu" />
+        <activity
+            android:name=".Combomenu"
+            android:parentActivityName=".Mainmenu" />
+        <activity
+            android:name=".Pizzamenu"
+            android:parentActivityName=".Mainmenu" />
+        <activity
+            android:name=".Others"
+            android:parentActivityName=".Mainmenu" />
+        <activity android:name=".MyHistory" />
+        <activity android:name=".ListOrder" />
+        <activity android:name=".Mainmenu" />
+        <activity android:name=".Main4Activity" />
         <activity android:name=".Main3Activity" />
         <activity android:name=".Main2Activity" />
         <activity android:name=".MainActivity">
